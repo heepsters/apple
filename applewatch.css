@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+body {
+	margin: 0;
+	font-family: Raleway, sans-serif;
+}
+
+.header p {
+	color: white;
+	font-size: 20px;
+	float: right;
+	margin-right: 30px;
+}
+
+.background {
+	background-color: rgb(16, 67, 88);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	vertical-align: middle;
+	display: block;
+
+}
+
+.applewatch {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.applewatch img {
+	width: 415px;
+	height: 305px;
+	margin-top: 15%;
+
+}
+
+.cover {
+	width: 185px;
+	height: 213px;
+	background-color: black;
+	border-radius: 30px;
+	margin-left: 42.15%;
+	margin-top: 18.25%;
+	position: absolute;
+	text-align: center;
+}
+
+#clock {
+	height: 213px;
+	margin-top: -1.7%;
+}
+
+#clock span{
+	color: white;
+	font-size: 60px;
+	letter-spacing: 2px;
+	width: 180px;	
+	margin-top: 0;
+}
+
+
